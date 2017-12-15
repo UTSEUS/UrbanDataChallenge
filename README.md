@@ -1,2 +1,2 @@
-# UrbanDataChallenge
-Urban Data Challenge Hackthon
+# Urban Data Challenge
+Urban Data Challenge Hackathon
